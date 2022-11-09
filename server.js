@@ -11,6 +11,7 @@ app.use(express.static('public'));
 
 app.use(require('./routes'));
 
+// using the MongoDB connection string saved in the .env file
 const connectionString = process.env.CONNECTION_STRING;
 
 mongoose.connect(connectionString, {
