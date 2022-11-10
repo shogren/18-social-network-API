@@ -10,7 +10,7 @@
 
 ## Description
 
-This is the week 18 project "Social Media API" that uses MongoDB for it's database and Express.js for routing.
+This is the week 18 project "Social Media API" that uses MongoDB for it's database, Moment for date formatting, and Express.js for routing.
 
 User Story:
 
@@ -21,6 +21,10 @@ SO THAT my website can handle large amounts of unstructured data
 ```
 
 ## Walkthrough
+
+[Video Walkthrough](https://watch.screencastify.com/v/8eAnY1kFLoNBfrLp82Wn)
+
+![Finished Site](./assets/screenshot.png)
 
 ## Installation
 
